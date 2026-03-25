@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/admin/page": "app/admin/page.js",
+  "/page": "app/page.js",
+  "/admin/relatorios/page": "app/admin/relatorios/page.js",
+  "/register/page": "app/register/page.js",
+  "/viagens/page": "app/viagens/page.js",
+  "/login/page": "app/login/page.js",
+  "/viagens/[id]/page": "app/viagens/[id]/page.js",
+  "/admin/viagens/page": "app/admin/viagens/page.js",
+  "/reservas/page": "app/reservas/page.js",
+  "/reservas/[id]/page": "app/reservas/[id]/page.js"
+}
